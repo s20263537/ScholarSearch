@@ -1,6 +1,6 @@
 # ScholarSearch
 
-My friend, judaea Stjohn, and I, Aarav Mathur, built **ScholarSearch** for the Congressional App Challenge (CAC) to make finding financial aid and scholarships way less stressful for high school students nationwide. 
+My friend, Judaea Stjohn, and I, Aarav Mathur, built **ScholarSearch** for the Congressional App Challenge (CAC) to make finding financial aid and scholarships way less stressful for high school students nationwide. 
 
 Most scholarship websites are super cluttered, full of expired links, or impossible to navigate. We wanted to create a clean, modern hub where students can easily plug in their academic profile, test scores, and goals to instantly discover and filter funding opportunities they are actually eligible for.
 
