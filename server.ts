@@ -28,7 +28,7 @@ const APIFY_API_TOKEN = process.env.APIFY_API_TOKEN;
 const APIFY_ACTOR = "majestic_fund/the-scholarship-scraper-actor";
 
 const apifyClient = new ApifyClient({
-  token: APIFY_TOKEN,
+token: process.env.APIFY_TOKEN, 
 });
 
 function getConversationalFallback(userText: string, studentProfile?: any) {
